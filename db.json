@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Office Chair",
+      "category": "Furniture",
+      "price": 8500
+    },
+    {
+      "id": "2",
+      "title": "Bluetooth Speaker",
+      "category": "Audio",
+      "price": 4200
+    },
+    {
+      "id": "3",
+      "title": "Gaming Laptop",
+      "category": "Computers",
+      "price": 72000
+    },
+    {
+      "id": "4",
+      "title": "Sunglasses",
+      "category": "Fashion Accessories",
+      "price": 2500
+    },
+    {
+      "id": "5",
+      "title": "Air Conditioner",
+      "category": "Home Appliances",
+      "price": 38000
+    },
+    {
+      "id": "6",
+      "title": "Table Lamp",
+      "category": "Lighting",
+      "price": 1600
+    },
+    {
+      "id": "7",
+      "title": "Notebook Planner",
+      "category": "Stationery",
+      "price": 350
+    },
+    {
+      "id": "8",
+      "title": "Electric Guitar",
+      "category": "Musical Instruments",
+      "price": 28000
+    },
+    {
+      "id": "9",
+      "title": "Football",
+      "category": "Sports",
+      "price": 1800
+    },
+    {
+      "id": "10",
+      "title": "Lipstick Set",
+      "category": "Cosmetics",
+      "price": 1200
+    },
+    {
+      "id": "11",
+      "title": "Jeans",
+      "category": "Clothing",
+      "price": 2200
+    },
+    {
+      "id": "12",
+      "title": "Bookshelf",
+      "category": "Living Room",
+      "price": 11000
+    },
+    {
+      "id": "13",
+      "title": "Wardrobe",
+      "category": "Bedroom",
+      "price": 26000
+    },
+    {
+      "id": "14",
+      "title": "Scooter",
+      "category": "Vehicles",
+      "price": 65000
+    },
+    {
+      "id": "15",
+      "title": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 3200
+    },
+    {
+      "id": "16",
+      "title": "Backpack",
+      "category": "Fashion",
+      "price": 1800
+    },
+    {
+      "id": "17",
+      "title": "Building Blocks Set",
+      "category": "Kids",
+      "price": 900
+    },
+    {
+      "id": "18",
+      "title": "DSLR Camera",
+      "category": "Photography",
+      "price": 58000
+    },
+    {
+      "id": "19",
+      "title": "Coffee Maker",
+      "category": "Kitchen Appliances",
+      "price": 7500
+    },
+    {
+      "id": "20",
+      "title": "Smartwatch",
+      "category": "Gadgets",
+      "price": 11000
+    }
+  ]
+}
